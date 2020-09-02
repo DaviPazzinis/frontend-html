@@ -1,0 +1,10 @@
+html, body {
+    width: 100%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+    margin: 0;
+    opacity: 1;
+}
