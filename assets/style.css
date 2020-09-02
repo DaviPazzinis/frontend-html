@@ -47,3 +47,22 @@ body {
 .whats-contact {
     padding-inline-start: 50px;
 }
+
+/* ICONS */
+
+.phone-icon {
+    width: 20.81px;
+    height: 20.81px;
+    background: url(../images/icons/phone.svg) no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    margin-inline-start: -6.5px;
+}
+
+.whats-icon {
+    width: 14.4px;
+    height: 14.4px;
+    background: url(../images/icons/whats.svg) no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
